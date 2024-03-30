@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.example.myviewmodel"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.myviewmodel"
         minSdk = 25
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
